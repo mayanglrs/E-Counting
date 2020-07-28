@@ -1,0 +1,553 @@
+id_kota;nama;sandi
+1;Lainnya Tidak terdefinisi;0
+2;Provinsi Jawa Barat;100
+3;Kab. Bekasi ;102
+4;Kab. Purwakarta ;103
+5;Kab. Karawang;106
+6;Kab. Bogor ;108
+7;Kab. Sukabumi ;109
+8;Kab. Cianjur ;110
+9;Kab. Bandung ;111
+10;Kab. Sumedang;112
+11;Kab. Tasikmalaya;113
+12;Kab. Garut ;114
+13;Kab. Ciamis ;115
+14;Kab. Cirebon ;116
+15;Kab. Kuningan ;117
+16;Kab. Indramayu ;118
+17;Kab. Majalengka ;119
+18;Kab. Subang ;121
+19;Kab. Bandung Barat;122
+20;Kab. Pangandaran;123
+21;Kota Banjar;180
+22;Kota Bandung ;191
+23;Kota Bogor ;192
+24;Kota Sukabumi ;193
+25;Kota Cirebon ;194
+26;Kota Tasikmalaya ;195
+27;Kota Cimahi ;196
+28;Kota Depok ;197
+29;Kota Bekasi ;198
+30;Provinsi Banten;200
+31;Kab. Lebak ;201
+32;Kab. Pandeglang ;202
+33;Kab. Serang   ;203
+34;Kab. Tangerang ;204
+35;Kota Cilegon;291
+36;Kota Tangerang ;292
+37;Kota Serang;293
+38;Kota Tangerang Selatan;294
+39;Provinsi DKI Jakarta Raya;300
+40;Wil. Kota Jakarta Pusat ;391
+41;Wil. Kota Jakarta Utara ;392
+42;Wil. Kota Jakarta Barat ;393
+43;Wil. Kota Jakarta Selatan;394
+44;Wil. Kota Jakarta Timur ;395
+45;Wil. Kab. Administrasi Kepulauan Seribu;396
+46;Daerah Istimewa Yogyakarta;500
+47;Kab. Bantul;501
+48;Kab. Sleman ;502
+49;Kab. Gunung Kidul ;503
+50;Kab. Kulon Progo ;504
+51;Kota Yogyakarta;591
+52;Provinsi Jawa Tengah;900
+53;Kab. Semarang;901
+54;Kab. Kendal ;902
+55;Kab. Demak ;903
+56;Kab. Grobogan ;904
+57;Kab. Pekalongan ;905
+58;Kab. Tegal ;906
+59;Kab. Brebes ;907
+60;Kab. Pati ;908
+61;Kab. Kudus ;909
+62;Kab. Pemalang ;910
+63;Kab. Jepara ;911
+64;Kab. Rembang ;912
+65;Kab. Blora ;913
+66;Kab. Banyumas ;914
+67;Kab. Cilacap ;915
+68;Kab. Purbalingga ;916
+69;Kab. Banjarnegara ;917
+70;Kab. Magelang ;918
+71;Kab. Temanggung ;919
+72;Kab. Wonosobo ;920
+73;Kab. Purworejo ;921
+74;Kab. Kebumen ;922
+75;Kab. Klaten ;923
+76;Kab. Boyolali ;924
+77;Kab. Sragen ;925
+78;Kab. Sukoharjo ;926
+79;Kab. Karanganyar ;927
+80;Kab. Wonogiri ;928
+81;Kab. Batang ;929
+82;Kota Semarang ;991
+83;Kota Salatiga ;992
+84;Kota Pekalongan ;993
+85;Kota Tegal ;994
+86;Kota Magelang ;995
+87;Kota Surakarta/Solo ;996
+88;Provinsi Jawa Timur;1200
+89;Kab. Gresik;1201
+90;Kab. Sidoarjo ;1202
+91;Kab. Mojokerto ;1203
+92;Kab. Jombang ;1204
+93;Kab. Sampang ;1205
+94;Kab. Pamekasan ;1206
+95;Kab. Sumenep ;1207
+96;Kab. Bangkalan ;1208
+97;Kab. Bondowoso ;1209
+98;Kab. Banyuwangi ;1211
+99;Kab. Jember;1212
+100;Kab. Malang ;1213
+101;Kab. Pasuruan ;1214
+102;Kab. Probolinggo ;1215
+103;Kab. Lumajang ;1216
+104;Kab. Kediri ;1217
+105;Kab. Nganjuk ;1218
+106;Kab. Tulungagung ;1219
+107;Kab. Trenggalek ;1220
+108;Kab. Blitar ;1221
+109;Kab. Madiun ;1222
+110;Kab. Ngawi ;1223
+111;Kab. Magetan ;1224
+112;Kab. Ponorogo ;1225
+113;Kab. Pacitan ;1226
+114;Kab. Bojonegoro ;1227
+115;Kab. Tuban ;1228
+116;Kab. Lamongan ;1229
+117;Kab. Situbondo ;1230
+118;Kota Batu;1271
+119;Kota Surabaya ;1291
+120;Kota Mojokerto ;1292
+121;Kota Malang ;1293
+122;Kota Pasuruan ;1294
+123;Kota Probolinggo ;1295
+124;Kota Blitar ;1296
+125;Kota Kediri ;1297
+126;Kota Madiun ;1298
+127;Provinsi Bengkulu;2300
+128;Kab. Bengkulu Selatan;2301
+129;Kab. Bengkulu Utara ;2302
+130;Kab. Rejang Lebong ;2303
+131;Kab. Lebong;2304
+132;Kab. Kepahiang;2305
+133;Kab. Mukomuko;2306
+134;Kab. Seluma;2307
+135;Kab. Kaur;2308
+136;Kab. Bengkulu Tengah;2309
+137;Kota Bengkulu ;2391
+138;Provinsi Jambi;3100
+139;Kab. Batanghari ;3101
+140;Kab. Sarolangun;3104
+141;Kab. Kerinci ;3105
+142;Kab. Muaro Jambi   ;3106
+143;Kab. Tanjung Jabung Barat      ;3107
+144;Kab. Tanjung Jabung Timur     ;3108
+145;Kab. Tebo  ;3109
+146;Kab. Merangin   ;3111
+147;Kab. Bungo;3112
+148;Kota Jambi ;3191
+149;Kota Sungai Penuh;3192
+150;Provinsi Nanggroe Aceh Darussalam;3200
+151;Kab. Aceh Besar ;3201
+152;Kab. Pidie ;3202
+153;Kab. Aceh Utara ;3203
+154;Kab. Aceh Timur ;3204
+155;Kab. Aceh Selatan ;3205
+156;Kab. Aceh Barat ;3206
+157;Kab. Aceh Tengah ;3207
+158;Kab. Aceh Tenggara ;3208
+159;Kab. Aceh Singkil     ;3209
+160;Kab. Aceh Jeumpa /Bireuen;3210
+161;Kab. Aceh Tamiang;3211
+162;Kab. Gayo Luwes;3212
+163;Kab. Aceh Barat Daya;3213
+164;Kab. Aceh Jaya;3214
+165;Kab. Nagan Raya;3215
+166;Kab. Simeuleu;3216
+167;Kab. Bener Meriah;3217
+168;Kab. Pidie Jaya;3218
+169;Kab. Subulussalam;3219
+170;Kota Banda Aceh ;3291
+171;Kota Sabang;3292
+172;Kota Lhokseumawe ;3293
+173;Kota Langsa   ;3294
+174;Provinsi Sumatera Utara;3300
+175;Kab. Deli Serdang ;3301
+176;Kab. Langkat ;3302
+177;Kab. Karo ;3303
+178;Kab. Simalungun;3304
+179;Kab. Labuhan Batu ;3305
+180;Kab. Asahan ;3306
+181;Kab. Dairi ;3307
+182;Kab. Tapanuli Utara ;3308
+183;Kab. Tapanuli Tengah ;3309
+184;Kab. Tapanuli Selatan ;3310
+185;Kab. Nias ;3311
+186;Kab. Toba Samosir    ;3313
+187;Kab. Mandailing Natal  ;3314
+188;Kab. Nias Selatan;3315
+189;Kab. Humbang Hasundutan;3316
+190;Kab. Pakpak Bharat;3317
+191;Kab. Samosir;3318
+192;Kab. Serdang Bedagai;3319
+193;Kab. Batu Bara;3321
+194;Kab. Padang Lawas;3322
+195;Kab. Padang Lawas Utara;3323
+196;Kab. Labuanbatu Selatan ;3324
+197;Kab. Labuanbatu Utara;3325
+198;Kab. Nias Barat;3326
+199;Kab. Nias Utara;3327
+200;Kota Tebing Tinggi ;3391
+201;Kota Binjai ;3392
+202;Kota Pematang Siantar ;3393
+203;Kota Tanjung Balai ;3394
+204;Kota Sibolga;3395
+205;Kota Medan ;3396
+206;Kota Gunung Sitoli;3397
+207;Kota Padang Sidempuan ;3399
+208;Provinsi Sumatera Barat;3400
+209;Kab. Agam ;3401
+210;Kab. Pasaman ;3402
+211;Kab. Limapuluh Kota;3403
+212;Kab. Solok Selatan;3404
+213;Kab. Padang Pariaman ;3405
+214;Kab. Pesisir Selatan ;3406
+215;Kab. Tanah Datar ;3407
+216;Kab. Sawah Lunto/Sijunjung;3408
+217;Kab. Kepulauan Mentawai   ;3409
+218;Kab. Pasaman Barat;3410
+219;Kab. Dharmasraya;3411
+220;Kab. Solok;3412
+221;Kota Bukittinggi ;3491
+222;Kota Padang;3492
+223;Kota Sawahlunto;3493
+224;Kota Padang Panjang ;3494
+225;Kota Solok ;3495
+226;Kota Payakumbuh ;3496
+227;Kota Pariaman ;3497
+228;Provinsi Riau;3500
+229;Kab. Kampar;3501
+230;Kab. Bengkalis ;3502
+231;Kab. Indragiri Hulu ;3504
+232;Kab. Indragiri Hilir;3505
+233;Kab. Rokan Hulu;3508
+234;Kab. Rokan Hilir   ;3509
+235;Kab. Pelalawan  ;3510
+236;Kab. Siak ;3511
+237;Kab. Kuantan Singingi   ;3512
+238;Kab. Kepulauan Meranti;3513
+239;Kota Pekanbaru ;3591
+240;Kota Dumai ;3592
+241;Provinsi Sumatera Selatan;3600
+242;Kab. Musi Banyuasin ;3606
+243;Kab. Ogan Komering Ulu ;3607
+244;Kab. Lematang Ilir Ogan Tengah (Muara Enim) ;3608
+245;Kab. Lahat;3609
+246;Kab. Musi Rawas ;3610
+247;Kab. Ogan Komering Ilir ;3611
+248;Kab. Banyuasin;3613
+249;Kab. Ogan Komering Ulu Selatan;3614
+250;Kab. Ogan Komering Ulu Timur;3615
+251;Kab. Ogan Ilir;3616
+252;Kab. Empat Lawang;3617
+253;Kab. Musi Rawas Utara;3618
+254;Kab. Penukal Abab Lematang Ilir;3619
+255;Kota Palembang ;3691
+256;Kota Lubuklinggau ;3693
+257;Kota Prabumulih ;3694
+258;Kota Pagar Alam   ;3697
+259;Provinsi Kep. Bangka Belitung;3700
+260;Kab. Bangka ;3701
+261;Kab. Belitung;3702
+262;Kab. Bangka Barat;3703
+263;Kab. Bangka Selatan;3704
+264;Kab. Bangka Tengah;3705
+265;Kab. Belitung Timur ;3706
+266;Kota Pangkal Pinang;3707
+267;Kota Pangkal Pinang ;3791
+268;Provinsi Kep. Riau;3800
+269;Kab. Karimun;3801
+270;Kab. Lingga;3802
+271;Kab. Natuna;3803
+272;Kab. Bintan (d/h Kabupaten Kepulauan Riau);3804
+273;Kab. Kepulauan Anambas;3805
+274;Kota Tanjung Pinang ;3891
+275;Kota Batam;3892
+276;Provinsi Lampung;3900
+277;Kab. Lampung Selatan ;3901
+278;Kab. Lampung Tengah ;3902
+279;Kab. Lampung Utara ;3903
+280;Kab. Lampung Barat ;3904
+281;Kab. Tulang Bawang ;3905
+282;Kab. Tanggamus ;3906
+283;Kab. Lampung Timur;3907
+284;Kab. Way Kanan;3908
+285;Kab. Pesawaran;3909
+286;Kab. Pringsewu;3910
+287;Kab. Tulang Bawang Barat;3911
+288;Kab. Mesuji;3912
+289;Kab. Pesisir Barat;3913
+290;Kota Bandar Lampung ;3991
+291;Kota  Metro ;3992
+292;Provinsi Kalimantan Selatan;5100
+293;Kab. Banjar ;5101
+294;Kab. Tanah Laut ;5102
+295;Kab. Tapin ;5103
+296;Kab. Hulu Sungai Selatan;5104
+297;Kab. Hulu Sungai Tengah ;5105
+298;Kab. Hulu Sungai Utara ;5106
+299;Kab. Barito Kuala ;5107
+300;Kab. Kota Baru ;5108
+301;Kab. Tabalong;5109
+302;Kab. Tanah Bumbu;5110
+303;Kab. Balangan;5111
+304;Kota Banjarmasin ;5191
+305;Kota Banjarbaru ;5192
+306;Provinsi Kalimantan Barat;5300
+307;Kab. Pontianak ;5301
+308;Kab. Sambas ;5302
+309;Kab. Ketapang ;5303
+310;Kab. Sanggau ;5304
+311;Kab. Sintang ;5305
+312;Kab. Kapuas Hulu ;5306
+313;Kab. Bengkayang    ;5307
+314;Kab. Landak   ;5308
+315;Kab. Sekadau;5309
+316;Kab. Melawi;5310
+317;Kab. Kayong Utara;5311
+318;Kab. Kubu Raya;5312
+319;Kota Pontianak ;5391
+320;Kota Singkawang ;5392
+321;Provinsi Kalimantan Timur;5400
+322;Kab. Kutai Kartanegara;5401
+323;Kab. Berau ;5402
+324;Kab. Paser;5403
+325;Kab. Bulungan ;5404
+326;Kab. Kutai Barat   ;5405
+327;Kab. Kutai Timur ;5406
+328;Kab. Nunukan;5409
+329;Kab. Malinau;5410
+330;Kab. Penajam Paser Utara;5411
+331;Kab. Tana Tidung;5412
+332;kab. Mahakam Ulu;5413
+333;Kota Samarinda ;5491
+334;Kota Balikpapan ;5492
+335;Kota Tarakan ;5493
+336;Kota Bontang ;5494
+337;Provinsi Kalimantan Utara;5500
+338;Provinsi Kalimantan Tengah;5800
+339;Kab. Kapuas ;5801
+340;Kab. Kotawaringin Barat ;5802
+341;Kab. Kotawaringin Timur;5803
+342;Kab. Murung Raya;5804
+343;Kab. Barito Timur;5805
+344;Kab. Barito Selatan ;5806
+345;Kab. Gunung Mas;5807
+346;Kab. Barito Utara;5808
+347;Kab. Pulang Pisau;5809
+348;Kab. Seruyan;5810
+349;Kab. Katingan;5811
+350;Kab. Sukamara;5812
+351;Kab. Lamandau;5813
+352;Kota Palangkaraya ;5892
+353;Provinsi Sulawesi Tengah;6000
+354;Kab. Donggala ;6001
+355;Kab. Poso ;6002
+356;Kab. Banggai ;6003
+357;Kab. Toli-Toli;6004
+358;Kab. Banggai Kepulauan   ;6005
+359;Kab. Morowali  ;6006
+360;Kab. Buol    ;6007
+361;Kab. Tojo Una-Una;6008
+362;Kab. Parigi Moutong;6009
+363;Kab. Sigi ;6010
+364;Kab. Banggai Laut;6011
+365;Kab. Morowali Utara;6012
+366;Kota Palu ;6091
+367;Provinsi Sulawesi Selatan;6100
+368;Kab. Pinrang ;6101
+369;Kab. Gowa ;6102
+370;Kab. Wajo ;6103
+371;Kab. Bone ;6105
+372;Kab. Tana Toraja ;6106
+373;Kab. Maros ;6107
+374;Kab. Luwu;6109
+375;Kab. Sinjai ;6110
+376;Kab. Bulukumba ;6111
+377;Kab. Bantaeng ;6112
+378;Kab. Jeneponto ;6113
+379;Kab. Kepulauan Selayar ;6114
+380;Kab. Takalar ;6115
+381;Kab. Barru ;6116
+382;Kab. Sidenreng Rappang ;6117
+383;Kab. Pangkajene Kepulauan ;6118
+384;Kab. Soppeng (d/h Watansoppeng) ;6119
+385;Kab. Enrekang ;6121
+386;Kab. Luwu Timur (d/h Luwu Selatan);6122
+387;Kab. Luwu Utara  ;6124
+388;Kab. Toraja Utara;6125
+389;Kota Makassar;6191
+390;Kota Pare-Pare ;6192
+391;Kota Palopo;6193
+392;Provinsi Sulawesi Utara;6200
+393;Kab. Minahasa ;6202
+394;Kab. Bolaang Mongondow ;6203
+395;Kab. Kepulauan Sangihe ;6204
+396;Kab. kepulauan Talaud ;6205
+397;Kab. Minahasa Selatan ;6206
+398;Kab. Minahasa Utara;6207
+399;Kab. Minahasa Tenggara;6209
+400;Kab. Bolaang Mongondow Utara;6210
+401;Kab. Kepulauan Sitaro;6211
+402;Kab. Bolaang Mongondow Selatan;6212
+403;Kab. Bolaang Mongondow Timur;6213
+404;Kota Manado ;6291
+405;Kota Kotamobagu;6292
+406;Kota Bitung ;6293
+407;Kota Tomohon;6294
+408;Provinsi Gorontalo;6300
+409;Kab. Gorontalo ;6301
+410;Kab. Bualemo   ;6302
+411;Kab. Bonebolango;6303
+412;Kab. Pohuwato;6304
+413;Kab. Gorontalo Utara;6305
+414;Kota Gorontalo ;6391
+415;Provinsi Sulawesi Barat;6400
+416;Kab. Polewali Mandar;6401
+417;Kab. Majene ;6402
+418;Kab. Mamasa ;6403
+419;Kab. Mamuju Utara;6404
+420;Kab. Mamuju Tengah;6405
+421;Kab. Mamuju;6406
+422;Kab Mamuju;6491
+423;Provinsi Sulawesi Tenggara;6900
+424;Kab. Buton ;6901
+425;Kab. Muna ;6903
+426;Kab. Kolaka ;6904
+427;Kab. Wakatobi;6905
+428;Kab. Konawe;6906
+429;Kab. Konawe Selatan ;6907
+430;Kab. Bombana;6908
+431;Kab. Kolaka Utara;6909
+432;Kab. Buton Utara;6910
+433;Kab. Konawe Utara;6911
+434;Kab. Kaloka Timur;6912
+435;Kab. Konawe Kepulauan;6913
+436;Kab. Buton Selatan;6914
+437;Kab. Buton Tengah;6915
+438;Kab. Muna Barat;6916
+439;Kota Bau-Bau ;6990
+440;Kota Kendari ;6991
+441;Provinsi Nusa Tenggara Barat;7100
+442;Kab. Lombok Barat ;7101
+443;Kab. Lombok Tengah ;7102
+444;Kab. Lombok Timur ;7103
+445;Kab. Sumbawa ;7104
+446;Kab. Bima ;7105
+447;Kab. Dompu ;7106
+448;Kab. Sumbawa Barat;7107
+449;Kab. Lombok Utara;7108
+450;Kota Mataram ;7191
+451;Kota Bima;7192
+452;Provinsi Bali;7200
+453;Kab. Buleleng ;7201
+454;Kab. Jembrana ;7202
+455;Kab. Tabanan ;7203
+456;Kab. Badung;7204
+457;Kab. Gianyar ;7205
+458;Kab. Klungkung ;7206
+459;Kab. Bangli ;7207
+460;Kab. Karangasem ;7208
+461;Kota Denpasar ;7291
+462;Provinsi Nusa Tenggara Timur;7400
+463;Kab. Kupang ;7401
+464;Kab. Timor-Tengah Selatan ;7402
+465;Kab. Timor-Tengah Utara ;7403
+466;Kab. Belu ;7404
+467;Kab. Alor ;7405
+468;Kab. Flores Timur ;7406
+469;Kab. Sikka ;7407
+470;Kab. Ende ;7408
+471;Kab. Ngada ;7409
+472;Kab. Manggarai ;7410
+473;Kab. Sumba Timur;7411
+474;Kab. Sumba Barat ;7412
+475;Kab. Lembata;7413
+476;Kab. Rote Ndao;7414
+477;Kab. Manggarai Barat;7415
+478;Kab. Sumba Tengah;7416
+479;Kab. Sumba Barat Daya;7417
+480;Kab. Manggarai Timur;7418
+481;Kab. Nagekeo;7419
+482;Kab. Sabu Raijua;7420
+483;Kab. Malaka;7421
+484;Kota Kupang ;7491
+485;Provinsi Maluku;8100
+486;Kab. Maluku Tengah ;8101
+487;Kab. Maluku Tenggara ;8102
+488;Kab. Maluku Tenggara Barat;8103
+489;Kab. Buru;8104
+490;Kab. Seram Bagian Barat;8105
+491;Kab. Seram Bagian Timur;8106
+492;Kab. Kepulauan Aru;8107
+493;Kab. Maluku Barat Daya ;8108
+494;Kab. Buru Selatan;8109
+495;Kota Ambon ;8191
+496;Kota Tual;8192
+497;Provinsi Papua;8200
+498;Kab. Jayapura ;8201
+499;Kab. Biak Numfor ;8202
+500;Kab. Kepulauan Yapen-Waropen ;8210
+501;Kab. Merauke ;8211
+502;Kab. Paniai ;8212
+503;Kab. Jayawijaya ;8213
+504;Kab. Nabire;8214
+505;Kab. Mimika;8215
+506;Kab. Puncak Jaya;8216
+507;Kab. Sarmi;8217
+508;Kab. Keerom;8218
+509;Kab. Pegunungan Bintang;8221
+510;Kab. Yahukimo;8222
+511;Kab. Tolikara;8223
+512;Kab. Waropen;8224
+513;Kab. Boven Digoel;8226
+514;Kab. Mappi;8227
+515;Kab. Asmat;8228
+516;Kab. Supiori;8231
+517;Kab. Mamberamo Raya;8232
+518;Kab. Dogiyai;8233
+519;Kab. Lanny Jaya;8234
+520;Kab. Mamberamo Tengah;8235
+521;Kab. Nduga;8236
+522;Kab. Yalimo;8237
+523;Kab. Puncak ;8238
+524;Kab. Intan Jaya;8239
+525;Kab. Deiya;8240
+526;Kota Jayapura ;8291
+527;Provinsi Maluku Utara;8300
+528;Kab. Halmahera Tengah  ;8302
+529;Kab. Halmahera Utara;8303
+530;Kab. Halmahera Timur;8304
+531;Kab. Halmahera Barat;8305
+532;Kab. Halmahera Selatan;8306
+533;Kab. Kepulauan Sula;8307
+534;Kab. Pulau Morotai;8308
+535;Kab. Pulau Taliabu;8309
+536;Kota Ternate   ;8390
+537;Kota Tidore Kepulauan;8391
+538;Provinsi Papua Barat;8400
+539;Kab. Sorong ;8401
+540;Kab. Fak-Fak ;8402
+541;Kab. Manokwari ;8403
+542;Kab. Sorong Selatan;8404
+543;Kab. Raja Ampat;8405
+544;Kab. Kaimana;8406
+545;Kab. Teluk Bintuni;8407
+546;Kab. Teluk Wondama;8408
+547;Kab. Tembrauw;8409
+548;Kab. Maybrat;8410
+549;Kab. Pegunungan Arfak;8411
+550;Kab. Manokwari Selatan;8412
+551;Kota Sorong;8491
+552;Di Luar Indonesia;9999

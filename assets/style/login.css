@@ -1,0 +1,122 @@
+*{ 
+  padding: 0px; 
+  margin: 0px; 
+} 
+
+body{
+	background-color:mediumturquoise;
+	height:100%;
+}
+#wrapper{
+	width:100%;
+	overflow:hidden;
+	margin:0 auto;
+}
+.header{
+	background-color:white;
+	background-image:url(images/header.png);
+	overflow:hidden;
+	padding:50px;
+	height:10px;
+	padding-top:10px;
+}
+
+#content{
+	padding-top:80px;
+}
+.desk{
+	margin-left:40px;
+}
+.samping{
+	margin-top:40px;
+	padding-left:0px;
+	font-size:15pt;
+	font-family:calibri;
+}
+
+.judul{
+	text-align:center;
+	padding:20px;
+}
+.atas{
+	color:gold;
+	font-family:arial;
+	font-size:22pt;
+}
+.bawah{
+	font-size:18pt;
+	font-family:arial;
+	color:white;
+}
+.login{ 
+	display:block;
+  background-color:steelblue; 
+  height: 200px; 
+  border: 2px solid steelblue; 
+  width:300px;
+  float:center;
+  margin-left:185px;
+  margin-bottom:140px;
+} 
+.img{
+	width:550px;
+	height:300px;
+	margin-left :60px;
+}
+.grup{
+	margin-top:20px;
+	display:block;
+	text-align:center;
+	font-size:12pt;
+	font-family:calibri;
+	color:white;
+}
+.login_regis { 
+  height: 30px; 
+  width: 260px; 
+  text-align: left; 
+  color: black; 
+  font-size: 11pt; 
+  background-color:white; 
+border: 2px solid steelblue;  
+  margin-left:10px; 
+  padding:4px;
+  margin-top:5px;
+} 
+
+.tombol_login { 
+  width: 260px; 
+  height: 50px; 
+  text-align: center; 
+  background-color: orange; 
+  color: steelblue; 
+  font-size: 17px; 
+  border: 2px solid orange; 
+  margin-left:10px; 
+	margin-top:10px;
+	cursor:pointer;
+} 
+
+
+.login_regis:hover { 
+  border: 3px solid #fff; 
+} 
+
+.tombol_login:hover { 
+  background-color: white; 
+  color: #0288D1; 
+  border: 2px solid white; 
+} 
+
+.footer{
+	text-align:right;
+	font-family:calibri;
+	color:white;
+	padding:23px;
+	background-color:teal;
+	margin-top:0px;
+	
+}
+
+
+	
